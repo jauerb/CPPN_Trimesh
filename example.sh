@@ -12,6 +12,10 @@ then
 	exit -1
 fi
 
+mkdir HyperNEAT/out/data
+mkdir HyperNEAT/out/tmp
+mkdir HyperNEAT/out/tmp/Files1_1
+
 cd Simulator
 
 #this starts the simulator in the flat ground environment with random seed 1 and thread 1
