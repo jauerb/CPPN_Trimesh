@@ -1,5 +1,5 @@
 CPPN Trimesh
-By Joshua Auerbach
+By Joshua E. Auerbach
 http://people.epfl.ch/joshua.auerbach
 joshua.auerbach@epfl.ch
 
@@ -46,8 +46,9 @@ Evolutionary Computation, pp. 521-528. ACM, 2012.
 
 and
 
-Auerbach, Joshua E., and Joshua C. Bongard. "Environmental influence on the 
-evolution of morphological complexity in machines."  In Review, 2013
+Auerbach, Joshua E., and Josh C. Bongard. "Environmental Influence on the 
+Evolution of Morphological Complexity in Machines." 
+PLoS computational biology 10.1 (2014): e1003399.
 
 An example of running one of these experiments is included in the script 
 example.sh  
