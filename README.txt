@@ -1,7 +1,7 @@
 CPPN Trimesh
 By Joshua Auerbach
-http://www.cs.uvm.edu/~jauerbac
-joshua.auerbach@uvm.edu
+http://people.epfl.ch/joshua.auerbach
+joshua.auerbach@epfl.ch
 
 Documentation for this package is included in this README file.  
 
