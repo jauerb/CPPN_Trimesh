@@ -35,7 +35,7 @@ physical simulation.
 The software is provided as is; however, we will do our best to maintain it 
 and accommodate suggestions. If you want to be notified of future releases of 
 the software or have questions, comments, bug reports or suggestions, send
-an email to joshua.auerbach@uvm.edu
+an email to joshua.auerbach@epfl.ch
 
 This code was used for the basis of the experiments reported in 
 
